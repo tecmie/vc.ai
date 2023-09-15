@@ -14,4 +14,16 @@ module.exports = {
       },
     ],
   },
+    /**
+   * Lance DB, namespaced as vectordb's node binding (index.node) needs a plugin to be parsed by webpack when bundling.
+   * You can either use that or simply ignore that file.
+   *
+   * @see https://github.com/lancedb/lancedb/issues/448
+   *
+   * @see https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config
+   */
+     webpack(config) {
+      config.externals.push({ vectordb: 'vectordb' });
+      return config;
+    },
 };

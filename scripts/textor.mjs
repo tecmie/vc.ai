@@ -35,8 +35,11 @@ const microVCs = fs.readFileSync('scripts/micro-vc.txt', 'utf8');
 
 
 const splitter = new CharacterTextSplitter({
-  chunkSize: 128,
-  chunkOverlap: 32,
+  chunkSize: 900,
+  chunkOverlap: 128,
+
+  /** @note - This separator is for microVC and AngelDocs */
+  separator: ['\"'],
 });
 
 // const splitter = new RecursiveCharacterTextSplitter({
@@ -56,14 +59,14 @@ const splitter = new CharacterTextSplitter({
     }
   );
 
-  const acceleratorDocs = await splitter.createDocuments(
-    [accelerators],
-    [],
-    {
-      chunkHeader: `DOCUMENT NAME: Accelerators and Institutional Programs\n\n---\n\n`,
-      appendChunkOverlapHeader: true,
-    }
-  );
+  // const acceleratorDocs = await splitter.createDocuments(
+  //   [accelerators],
+  //   [],
+  //   {
+  //     chunkHeader: `DOCUMENT NAME: Accelerators and Institutional Programs\n\n---\n\n`,
+  //     appendChunkOverlapHeader: true,
+  //   }
+  // );
 
 
   const microVCDocs = await splitter.createDocuments( 
@@ -79,24 +82,26 @@ const splitter = new CharacterTextSplitter({
   // console.log({ angelDocs, acceleratorDocs, microVCDocs })
 
 
-  // const dir = await fs.mkdtemp(path.join(os.tmpdir(), "lancedb-"));
-  const db = await connect('/Users/apple/Desktop/vectors');
-  const data = angelDocs.concat(acceleratorDocs, microVCDocs)
-
-
-
-
+  const db = await connect('/Users/apple/srv/koolamusic/rag/data');
   const table = await db.openTable("investors", embedFunction);
 
-  await Promise.all(data.forEach(async (entry) => {
-    console.log('<><><><><><><><>><', entry, '<><><><><><><><><><><');
+  // const data = angelDocs.concat(acceleratorDocs, microVCDocs)
 
-    if(!entry.pageContent) return;
+  await table.add(microVCDocs);
 
-    await table.add([entry]);
+
+
+
+
+  // await Promise.all(microVCDocs.forEach(async (entry) => {
+  //   console.log('<><><><><><><><>><', entry, '<><><><><><><><><><><');
+
+  //   if(!entry.pageContent) return;
+
+  //   await table.add([entry]);
 
     
-  }));
+  // }));
   
   
   

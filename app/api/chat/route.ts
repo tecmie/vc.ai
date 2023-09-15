@@ -65,7 +65,7 @@ export async function POST(req: Request) {
   * We read the actor information from request cookie
   * And use it to perform a similarity search on LanceDB
   **/
-  const db = await connect('/Users/apple/srv/koolamusic/rag/data');
+  const db = await connect(process.env.VECTOR_DB_DIR as string);
   const table = await db.openTable('investors', embeddings);
 
   /**

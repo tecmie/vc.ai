@@ -3,6 +3,10 @@ import { OpenAIStream, StreamingTextResponse } from 'ai'
 import { Configuration, OpenAIApi } from 'openai-edge'
 
 import { nanoid } from '@/lib/utils'
+import { connect, OpenAIEmbeddingFunction } from 'vectordb'
+
+const embeddings = new OpenAIEmbeddingFunction('pageContent', process.env.OPENAI_API_KEY as string);
+
 
 const session = {
   user: {
@@ -12,7 +16,7 @@ const session = {
 }
 }
 
-export const runtime = 'edge'
+// export const runtime = 'edge'
 
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY
@@ -27,6 +31,43 @@ export async function POST(req: Request) {
   if (previewToken) {
     configuration.apiKey = previewToken
   }
+
+
+   /**
+   * Vector Retrieval step for our actor
+   * We read the actor information from request cookie
+   * And use it to perform a similarity search on LanceDB
+   **/
+    const db = await connect('data');
+    const table = await db.openTable('investors', embeddings);
+  
+    /**
+     * We need to filter out the messages that are not tweets
+     * or quote tweets when executing our queries
+     *
+     * @see https://lancedb.github.io/lancedb/sql/
+     */
+    const results = await table
+      // .search("")
+      .search('investors in europe')
+      .limit(5)
+      .execute();
+  
+    // need to make sure our prompt is not larger than max size
+    const formattedContext = results
+      .map((r) => r.text)
+      .join('\n\n---\n\n')
+      .substring(0, 3750);
+  
+
+
+
+      console.log({
+        results,
+        formattedContext,
+      })
+
+
 
   const res = await openai.createChatCompletion({
     model: 'gpt-3.5-turbo',

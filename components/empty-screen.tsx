@@ -6,28 +6,28 @@ import { IconArrowRight } from '@/components/ui/icons'
 
 const exampleMessages = [
   {
-    heading: 'Explain technical concepts',
-    message: `What is a "serverless function"?`
+    heading: 'Find a type of Investor',
+    message: `I need investors from Government Offices"?`
   },
   {
-    heading: 'Summarize an article',
-    message: 'Summarize the following article for a 2nd grader: \n'
+    heading: 'Recommend a Investor',
+    message: 'Recommend a VC or accelerator for AI companies: \n'
   },
   {
-    heading: 'Draft an email',
-    message: `Draft an email to my boss about the following: \n`
+    heading: 'Draft a message for an Investor',
+    message: `Draft an email I can send to Marc Andressen: \n`
   }
 ]
 
 export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
   return (
-    <div className="mx-auto max-w-2xl px-4">
-      <div className="rounded-lg border bg-background p-8">
+    <div className="max-w-2xl px-4 mx-auto">
+      <div className="p-8 border rounded-lg bg-background">
         <h1 className="mb-2 text-lg font-semibold">
-          Welcome to Next.js AI Chatbot!
+          Welcome to VC AI Chatbot!
         </h1>
         <p className="mb-2 leading-normal text-muted-foreground">
-          This is an open source AI chatbot app template built with{' '}
+          This is simple chatbot app template built with{' '}
           <ExternalLink href="https://nextjs.org">Next.js</ExternalLink> and{' '}
           <ExternalLink href="https://vercel.com/storage/kv">
             Vercel KV
@@ -37,7 +37,7 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
         <p className="leading-normal text-muted-foreground">
           You can start a conversation here or try the following examples:
         </p>
-        <div className="mt-4 flex flex-col items-start space-y-2">
+        <div className="flex flex-col items-start mt-4 space-y-2">
           {exampleMessages.map((message, index) => (
             <Button
               key={index}

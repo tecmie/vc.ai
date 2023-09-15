@@ -2,8 +2,15 @@ import { kv } from '@vercel/kv'
 import { OpenAIStream, StreamingTextResponse } from 'ai'
 import { Configuration, OpenAIApi } from 'openai-edge'
 
-import { auth } from '@/auth'
 import { nanoid } from '@/lib/utils'
+
+const session = {
+  user: {
+    id: 'hack',
+    name: 'Hack',
+    email: 'hack@angel.com',
+}
+}
 
 export const runtime = 'edge'
 
@@ -16,13 +23,6 @@ const openai = new OpenAIApi(configuration)
 export async function POST(req: Request) {
   const json = await req.json()
   const { messages, previewToken } = json
-  const userId = (await auth())?.user.id
-
-  if (!userId) {
-    return new Response('Unauthorized', {
-      status: 401
-    })
-  }
 
   if (previewToken) {
     configuration.apiKey = previewToken
@@ -44,7 +44,7 @@ export async function POST(req: Request) {
       const payload = {
         id,
         title,
-        userId,
+        userId: session.user.id,
         createdAt,
         path,
         messages: [
@@ -56,7 +56,7 @@ export async function POST(req: Request) {
         ]
       }
       await kv.hmset(`chat:${id}`, payload)
-      await kv.zadd(`user:chat:${userId}`, {
+      await kv.zadd(`user:chat:${session.user.id}`, {
         score: createdAt,
         member: `chat:${id}`
       })

@@ -1,0 +1,509 @@
+{
+  angels: [
+    Document {
+      pageContent: '[\\"Marc Andreessen\\",\\"Investment Partner, Individual/Angel\\",\\"San Francisco\\",\\"Seed\\",\\"Marc\\",\\"Andreessen\\",\\"http://twitter.com/pmarca\\",\\"http://www.facebook.com/pmarca\\",\\"https://www.fundseeks.com/individual-angel/\\",\\"Marc Andreessen was the Co-founder of LoudCloud Systems.\\",\\"Co-Founder \\\\u0026 General Partner\\",\\"Daniel Gross\\",\\"Daniel\\",\\"Gross\\",\\"https://twitter.com/danielgross\\",\\"https://www.linkedin.com/in/danielgrossca\\",\\"https://www.facebook.com/dg271\\",\\"Daniel Gross is the Co-Founder of Pioneer. He previously worked at Y Combinator as a Head of AI.\\",\\"Jerry Yang\\",\\"Tokyo\\",\\"Jerry\\",\\"Yang\\",\\"https://www.linkedin.com/in/jmyang1976/\\",\\"https://www.facebook.com/pages/Jerry-Yang/108225819205316?fref\\\\u003dts\\",\\"https://goo.gl/WESRXN\\",\\"Jerry Yang, a Taiwanese native raised in San Jose, Calif., co-created the Yahoo Internet navigational guide in April 1994 with David Filo an...\\",\\"Founding Partner\\",\\"Rajesh Sawhney\\",\\"Gurgaon\\",\\"Rajesh\\",\\"Sawhney\\",\\"http://twitter.com/rajeshsawhney\\",\\"http://www.linkedin.com/pub/rajesh-sawhney/0/455/6b3\\",\\"Rajesh is the co-founder and CEO of InnerChef and Super Angels. He holds a bachelor\\\\u0027s degree in electronic engineering from Delhi Universit...\\",\\"Co-Founder and CEO\\",\\"Lee Fixel\\",\\"New York\\",\\"Early Stage Venture, Late Stage Venture\\",\\"Lee\\",\\"Fixel\\",\\"http://twitter.com/leefixel\\",\\"http://www.linkedin.com/in/leefixel\\",\\"Lee Fixel is the founder of Addition, an investment firm focused on early and growth stage companies.   Fixel was previously a Partner at Ti...\\",\\"Founder\\",\\"Alexander Edward Chesterman\\",\\"London\\",\\"Alexander Edward\\",\\"Chesterman\\",\\"https://www.zpg.co.uk/\\",\\"Alex Chesterman is the founder and CEO of Cazoo. He was the Founder \\\\u0026 CEO of ZPG Plc, a FTSE-250 listed company.  Previously Alex co-founded...\\",\\"Fritz Lanman\\",\\"Missoula\\",\\"Fritz\\",\\"Lanman\\",\\"http://twitter.com/fritzanity\\",\\"http://www.linkedin.com/in/fritzlanman\\",\\"http://www.facebook.com/fritz.lanman\\",\\"Fritz Lanman is the CEO of Mindbody Business. He previously worked at ClassPass as an Executive Chairman. Fritz Lanman attended Yale Univers...\\",\\"CEO\\",\\"Friends \\\\u0026 Family\\",\\"Individual/Angel\\",\\"Montana\\",\\"Friends \\\\u0026\\",\\"Family\\",\\"Sina Afra\\",\\"Istanbul\\",\\"Sina\\",\\"Afra\\",\\"http://twitter.com/SinaAfra\\",\\"https://www.linkedin.com/in/sinaafra\\",\\"http://www.facebook.com/sinaafra\\",\\"http://www.sinaafra.com\\",\\"Sina is a Serial Entrepreneur. His latest endeavor is Tiko which he founded and serves as CEO. Before that he was the Founder of Markafoni, ...\\",\\"Founder \\\\u0026 CEO\\",\\"Tom McInerney\\",\\"United States\\",\\"Tom\\",\\"McInerney\\",\\"http://twitter.com/tgm\\",\\"http://www.linkedin.com/in/tommcinerney\\",\\"http://tgm.com\\",\\"Tom McInerney advises and invests in early stage Internet companies. \\",\\"Founder \\\\u0026 Angel Investor\\",\\"Kishore Ganji\\",\\"Marlboro\\",\\"Kishore\\",\\"Ganji\\",\\"http://twitter.com/ganjikk\\",\\"https://www.linkedin.com/in/kishoreganji/\\",\\"http://www.astirit.com\\",\\"Kishore Ganji is the Angel Investor \\\\u0026 Mentor at Astir Ventures.\\",\\"Founder and CEO\\",\\"Allen DeBevoise\\",\\"West Hollywood\\",\\"Allen\\",\\"DeBevoise\\",\\"https://twitter.com/allendebevoise\\",\\"https://www.linkedin.com/in/allen-debevoise-172597\\",\\"Allen DeBeviose started Third Wave in 2014 after more than 30 yearsÂ of experience incubating and investing in digital media companies. He ha...\\",\\"Managing Partner\\",\\"Brian Lee\\",\\"Los Angeles\\",\\"Early Stage Venture, Seed\\",\\"Brian\\",\\"https://twitter.com/honestlee888\\",\\"https://www.linkedin.com/in/brianlee4\\",\\"Brian Lee is an entrepreneur. He is co-founder and former president of LegalZoom.com, co-founder and former CEO of ShoeDazzle.com, and co-fo...\\",\\"Co-Founder \\\\u0026 Managing Director\\",\\"Varun Alagh\\",\\"Varun\\",\\"Alagh\\",\\"https://www.linkedin.com/in/varunalagh84\\",\\"Varun Alagh is the Founder, Chief Dad, and Get Stuff Done Officer at Mamaearth.\\",\\"Founder, Chief Dad and Get Stuff Done Officer\\",\\"Tom Blomfield\\",\\"Blomfield\\",\\"https://twitter.com/t_blom\\",\\"https://www.linkedin.com/in/tomblomfield\\",\\"https://www.facebook.com/tomblomfield\\",\\"http://tomblomfield.com\\",\\"Tom Blomfield is the CEO of Monzo, a new kind of bank, designed for smartphones. Tom previously founded GoCardless, a fintech startup that h...\\",\\"Jared Leto\\",\\"Jared\\",\\"Leto\\",\\"http://twitter.com/JaredLeto\\",\\"http://www.facebook.com/jaredleto\\",\\"http://jaredleto.com/thisiswhoireallyam/\\",\\"Jared Leto is a musician, actor, director, entrepreneur, and artist. His two decades of work as an actor have encompassed a host of inten...\\",\\"Lead Singer - 30 Seconds to Mars\\",\\"Ali Partovi\\",\\"Ali\\",\\"Partovi\\",\\"http://twitter.com/apartovi\\",\\"http://www.linkedin.com/in/apartovi\\",\\"http://www.facebook.com/apartovi\\",\\"Ali Partovi is the CEO and Founder of Neo and was a Founding partner at linkexchange. Ali attended Harvard University.\\",\\"Jacob Gibson\\",\\"Jacob\\",\\"Gibson\\",\\"http://twitter.com/iamjakestream\\",\\"http://www.linkedin.com/in/jacobgibson\\",\\"Jacob Gibson is the Co-Founder and Partner of Better Tomorrow Ventures. He is a former co-founder and COO at NerdWallet. He attended the Mas...\\",\\"Co-Founder and Partner\\",\\"Ben Davenport\\",\\"Palo Alto\\",\\"Convertible Note, Early Stage Venture, Seed\\",\\"Ben\\",\\"Davenport\\",\\"http://twitter.com/bendavenport\\",\\"http://www.linkedin.com/in/bpdavenport\\",\\"Ben Davenport is The Venture Partner  at Blockchain Capital.\\",\\"Thomas Lehrman\\",\\"Thomas\\",\\"Lehrman\\",\\"https://www.linkedin.com/in/thomas-d-lehrman-54955\\",\\"Thomas D. Lehrman is the Board Director at Gerson Lehrman Group.He is a Co - Founder and former Co - Chief Executive Officer of Gerson Lehrm...\\",\\"Michael Lazerow\\",\\"Michael\\",\\"Lazerow\\",\\"http://twitter.com/lazerow\\",\\"https://www.linkedin.com/in/lazerow/\\",\\"http://www.facebook.com/lazerow\\",\\"http://www.lazerow.com\\",\\"Michael Lazerow is the Co-founder and Managing Partner at Velvet Sea Ventures.\\",\\"Co-founder and Managing Partner\\",\\"Olivier Pomel\\",\\"Olivier\\",\\"Pomel\\",\\"http://twitter.com/oliveur\\",\\"http://www.linkedin.com/in/olivierpomel\\",\\"Olivier Pomel is the CEO and Co-Founder of Datadog. Prior to founding Datadog, Olivier Pomel built data systems for K-12 teachers as a VP, T...\\",\\"Co-Founder \\\\u0026 CEO\\",\\"Alan Howard\\",\\"Alan\\",\\"Howard\\",\\"Alan Howard is a British billionaire hedge fund manager and co-founder of Brevan Howard Asset Management.\\",\\"Sandeep Nailwal\\",\\"Dubai\\",\\"Sandeep\\",\\"Nailwal\\",\\"https://twitter.com/sandeepnailwal\\",\\"https://www.linkedin.com/in/sandeep-nailwal-60709a33/\\",\\"Sandeep Nailwal is the Co-Founder of Polygon. He is a former Co-Founder and CEO of Scopeweaver. He attended the National Institute of Indust...\\",\\"Co-Founder\\",\\"Adrian Aoun\\",\\"Adrian\\",\\"Aoun\\",\\"http://twitter.com/adrianaoun\\",\\"http://www.linkedin.com/in/adrianaoun\\",\\"http://www.facebook.com/adrian.aoun\\",\\"Adrian Aoun is the founder and CEO of Forward, an AI-based healthcare system combining world-class private doctors with new technology to en...\\",\\"Chris Murphy\\",\\"Stockholm\\",\\"Chris\\",\\"Murphy\\",\\"https://twitter.com/chmurphy\\",\\"https://www.linkedin.com/in/chrismurph/\\",\\"http://www.facebook.com/chmurph\\",\\"http://ie.linkedin.com/in/chrismurph\\",\\"Chris Murphy is a Venture Partner at MS\\\\u0026AD Ventures. He previously worked at SaaStock and attended Dublin City University.\\",\\"Venture Partner\\",\\"James Beshara\\",\\"James\\",\\"Beshara\\",\\"http://twitter.com/jjbeshara\\",\\"https://www.linkedin.com/in/jjbeshara\\",\\"http://www.facebook.com/jjbeshara\\",\\"James Beshara is the Founder of Magic Mind and an Investor at Skio. He previously worked as the Director of Product at Airbnb, Co-Founder an...\\",\\"Nihal Mehta\\",\\"Nihal\\",\\"Mehta\\",\\"http://twitter.com/nihalmehta\\",\\"http://www.linkedin.com/in/nihalmehta\\",\\"http://www.facebook.com/djnihal\\",\\"http://nihalmehta.com\\",\\"Nihal Mehta is a Co-Founder at Eniac Ventures. He was an Angel Investor at Uber. He attended the University of Pennsylvania.\\",\\"Othman Laraki\\",\\"San Francisco Bay Area\\",\\"Othman\\",\\"Laraki\\",\\"http://twitter.com/othman\\",\\"https://www.linkedin.com/in/othmanlaraki\\",\\"http://www.facebook.com/othman.laraki\\",\\"Othman Laraki, MS, MBA, is the Co-founder and Chief Executive Officer of Color, a health technology company building public health infrastru...\\",\\"Co-founder and CEO\\",\\"Philippe Teixeira da Mota\\",\\"Philippe\\",\\"Teixeira da Mota\\",\\"https://www.linkedin.com/in/pteixeiradamota/\\",\\"Partner at Hedosophia\\",\\"Partner\\",\\"Zach Coelius\\",\\"Zach\\",\\"Coelius\\",\\"http://twitter.com/zachcoelius\\",\\"https://www.linkedin.com/in/zachcoelius\\",\\"https://www.facebook.com/zcoelius\\",\\"Zach Coelius - Managing Partner @ Coelius Capital\\",\\"Kyle Vogt\\",\\"Kyle\\",\\"Vogt\\",\\"https://twitter.com/kvogt\\",\\"http://www.linkedin.com/in/kylevogt\\",\\"Kyle Vogt is the CEO of Cruise and former cofounder of Twitch\\",\\"Michael Stoppelman\\",\\"Greater Los Angeles Area\\",\\"Stoppelman\\",\\"http://www.linkedin.com/in/michaelstoppelman\\",\\"http://www.facebook.com/stopman\\",\\"Michael Stoppelman is an active angel/seed investor in Los Angeles. He\\\\u0027s the former Senior Vice President of Engineering at Yelp. He started...\\",\\"Christian Dahlen\\",\\"Christian\\",\\"Dahlen\\",\\"http://twitter.com/mercurygod\\",\\"http://www.linkedin.com/pub/christian-dahlen/1/447/4b3\\",\\"https://www.blogger.com/blog/posts/7544150678421823574\\",\\"Christian Dahlen is a business angel. He provides expert capital and venture advice to B2B SW startups in Silicon Valley and in Germany. He ...\\",\\"Investor\\",\\"Hidetoshi Takano\\",\\"Hidetoshi\\",\\"Takano\\",\\"https://www.linkedin.com/in/hidetoshitakano/\\",\\"https://www.facebook.com/HidetoshiTakano\\",\\"Joined Intelligence in 1999. Established Key Players Inc. in 2005. Consultation with more than 3,000 managers and career counseling for more...\\",\\"CEO and Managing Director\\",\\"Sahil Lavingia\\",\\"Beaverton\\",\\"Sahil\\",\\"Lavingia\\",\\"http://twitter.com/shl\\",\\"https://www.linkedin.co'... 254732 more characters,
+      metadata: [Object]
+    }
+  ],
+  accelerators: [
+    Document {
+      pageContent: 'Organization Name\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Investor Type\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'No. of Investments\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'No. of Exits\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Location\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Investment Stage\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'No. of Portfolio\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'No. of Partner Investment\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'No. of Lead Investment\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'No. of Diversity\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Contact Job Departments\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'First Name \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Last Name \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Full Description\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Website\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'E-mail\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Phone no.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Industries\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' National Science Foundation \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Entrepreneurship Program\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '4,348\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '189\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Alexandria, Virginia, United States\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Grant\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '2,988\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '—\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '4,178\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '696\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Engineering\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'America’s Seed Fund powered by NSF awards nearly $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.5 million in non-dilutive funds to support research and development (R\\\\\\\\u0026D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $7.8 billion that supports fundamental research and education across all fields of science and engineering.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' www.nsf.gov/ \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'sbir@nsf.gov\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '(703) 292-8050\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Advanced Materials\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Government Office\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Seed\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Finance\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Biotechnology\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Human Resources\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Chemical Engineering\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Information Technology\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'EdTech\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Legal\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Environmental Engineering\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Management\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Government\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Marketing\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Medical \\\\\\\\u0026 Science\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Internet of Things\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Operations\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Manufacturing\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Pro Services\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Medical Device\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Product\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Nanotechnology\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Sales\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Robotics\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Semiconductor\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Wireless\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Creative Destruction Lab (CDL) \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '742\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '51\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Toronto, Ontario, Canada\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Early Stage Venture\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '734\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '147\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '34\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Creative Destruction Lab (CDL) is a no-fee/no-equity organization that delivers an objectives-based mentoring program for massively scalable, pre-seed stage, science- and technology-based companies. Its nine-month program allows founders to learn from experienced entrepreneurs, increasing their likelihood of success. Founded in 2012 by Professor Ajay Agrawal at the University of Toronto’s Rotman School of Management, the program has expanded to nine sites across four countries: Oxford (Saïd Business School, University of Oxford), Paris (HEC Paris), Atlanta (Scheller College of Business, Georgia Institute of Technology), Madison (Wisconsin School of Business, University of Wisconsin-Madison), Vancouver (Sauder School of Business, University of British Columbia), Montreal (HEC Montréal), Calgary (Haskayne School of Business, University of Calgary), and Halifax (Rowe School of Business, Dalhousie University).Due to the current global COVID-19 crisis, we have adapted our program to be delivered entirely online. As we follow the guidance of public health officials, we will re-evaluate periodically to decide when to transition back to in-person format. CDL will not turn away ventures that have applied to a specific location if they are not able to attend a session in-person, as there is still uncertainty around the COVID-19 situation.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' www.creativedestructionlab.com/ \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'info@creativedestructionlab.com\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'University Program\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Aerospace\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Blockchain\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'CleanTech\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Retail Technology\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Risk Management\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Supply Chain Management\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' National Institutes of Health \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '702\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '69\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Bethesda, Maryland, United States\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '505\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '473\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '131\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'National Institutes of Health is a biomedical research facility in the United States. It is affiliated with the United States Department of Health and Human Services. It is the primary agency of the United States government responsible for biomedical and health-related research. It conducts its own scientific research through its Intramural Research Program (IRP) and provides major biomedical research funding to non-NIH research facilities through its Extramural Research Program.National Institutes of Health has 1,200 principal investigators and more than 4,000 postdoctoral fellows in basic, translational, and clinical research. It comprises 27 separate institutes and centers that conduct research in different disciplines of biomedical science.With scientific accomplishments such as the discovery of fluoride to prevent tooth decay, the use of lithium to manage bipolar disorder, the creation of vaccines against hepatitis, Haemophilus influenzae (HIB), and human papillomavirus, National Institutes of Health has many agencies under its control.National Institutes of Health was established in 1887. It is based in Bethesda, Maryland.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' www.nih.gov \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'NIHinfo@od.nih.gov\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '(844) 517-3111\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Health Care\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Health Diagnostics\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Medical\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Innovate UK \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '699\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '42\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Swindon, Wiltshire, United Kingdom\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '552\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '475\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Innovate U.K. is a NPO that offers funding services to support science and technology innovations.The organization offers services and information on births, deaths, marriages, business, self-employed, childcare, parenting, citizenship, law, disabled persons, transportation, education, environment, housing, money, tax, travel, immigration, and jobs.Innovate U.K. is based in Swindon.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' www.innovateuk.gov.uk \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'support@innovateuk.ukri.org\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Venture Capital\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Financial Services\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Pitch@Palace \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '402\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '27\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' London, England, United Kingdom\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Non Equity Assistance\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '399\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '22\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '5\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Pitch@Palace gives Entrepreneurs the opportunity to meet the people who can help make their business dreams become a reality.Pitch@Palace guides, helps and connects Entrepreneurs and early-stage businesses with potential supporters, including CEOs, Influencers, Angels, Mentors and Business Partners.Pitch@Palace provides a platform for Entrepreneurs, creating introductions to Mentors and Advisors, access to Distribution Systems and Supply Chains and Connections and Investment.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' pitchatpalace.com/ \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'support@pitchatpalace.com\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Social Entrepreneurship\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Newchip \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Accelerator\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '391\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Austin, Texas, United States\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Convertible Note\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '9\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '39\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Newchip is a global remote startup accelerator.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' www.newchip.com \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'team@newchip.com\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Apps\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Crowdfunding\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Retail\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Fund Of Funds\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Software\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Village Capital \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '326\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '18\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Washington, District of Columbia, United States\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '317\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '128\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '53\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Village Capital uses the power of peer support to change the traditional dynamics between investors and entrepreneurs, providing access to entrepreneurship for everyone.We recruit entrepreneurs solving specific problems in agriculture, energy, education, financial inclusion, and health. We then put the power of investment in the hands of the entrepreneurs, who award pre-committed seed funding to the two ventures ranked highest by the entrepreneurs at the end of every program. Our programs connect high potential, early-stage entrepreneurs with the people, institutions, and capital they need to succeed.We support early-stage ventures with a 501c3 nonprofit that operates training programs for founders, investors, and communities. We also manage a for-profit, managed investment fund that provides early-stage capital to top graduates of each program, as selected by their peers. Our unique peer-selection model received McKinsey/Harvard Business Review’s prestigious M-Prize for innovation in 2013, and we have supported more than 550 enterprises across 51 programs in 9 countries.Since 2009, Village Capital has supported more than 1,000 entrepreneurs through our programs and partnered with affiliated investment funds, including VilCap Investments, that have invested seed capital in more than 90 program graduates. Over the past 8 years, our program graduates have gone on to generate $61.5M in revenue, reach 8.5 million customers, and create over 11,500 jobs. 96% of our alumni would recommend our program to other entrepreneurs, and to date and 91% of our entrepreneurs are still in business.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' www.vilcap.com \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'dahler.battle@vilcap.com\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '(919) 475-0437\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Agriculture\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Debt\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Education\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Private Equity\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'FinTech\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Foundation for Technological Innovation (FIT) \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '270\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '28\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Lausanne, Vaud, Switzerland\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '228\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '262\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '1\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'The Foundation for Technology Innovation gives financial assistance to creative and technological projects at various phases of development. FIT funds projects in energy and the environment, information and digital technology, life sciences and health, precision industries, and nutrition and agriculture.\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' fondation-fit.ch/en/who-is-fit/ \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'info@fondation-fit.ch\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Association\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'Non Profit\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Tenity \\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '254\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        ' Zürich, Zurich, Switzerland\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '249\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '240\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        '2\\\\\\\n' +
+        '\n' +
+        '\\\\\n' +
+        'F10 is a global innovation accelerator network and early-stage investor dedicated to FinTech, RegTech, InsurTech, Deeptech and Climate Fintech. We support and guide Startups in transforming their ideas into successful companies, all while stimulating worldwide collaboration with international finance institutions. F10 offers fully-fledged accelerator programs for startups in cooperation with leading players in the financial service sector.There are plenty of Benefits for a Startup attending our program. Like…- Access to funding- Renowned international Mentors and Coaches guiding you on your path to success.- In-depth experience in all aspects of the financial industry.- Top-lev'... 508648 more characters,
+      metadata: [Object]
+    }
+  ],
+  microVCs: [
+    Document {
+      pageContent: '"Micro VC\\",\\"306\\",\\"99\\",\\" San Francisco, California, United States\\",\\"Early Stage Venture\\",\\"242\\",\\"—\\",\\"13\\",\\"67\\",\\"Management\\",\\"Tuesday Capital (formerly known as CrunchFund) is a seed stage focused venture firm that invests in information technology enabled companies. In 2019 CrunchFund was rebranded as Tuesday Capital.\\",\\" tuesday.vc \\",\\"partners@crunchfund.com\\",\\"Finance\\",\\"Private Equity\\",\\"Operations\\",\\"Financial Services\\",\\"Seed\\",\\" Everywhere Ventures (The Fund) \\",\\"286\\",\\"5\\",\\" New York, New York, United States\\",\\"233\\",\\"1\\",\\"80\\",\\"Engineering\\",\\"Everywhere Ventures (The Fund) is a first-of-its-kind early-stage venture fund created ​by founders for founders​ to support the next generation of entrepreneurs.Everywhere Ventures is a community-powered venture investing platform that integrates the capital, expertise, and mentoring of experienced founders and operators across ten micro funds. The Fund\\\\u0027s $50M+ under management comes almost exclusively from the over 500 founders and operators who are its limited partners. Everywhere Ventures operates from the belief that those who have actually built successful companies are best suited to advise and support early-stage startups. Everywhere Ventures invests in pre-seed deals globally usually in the first financing round the company raises. Emphasis is placed on purpose-driven teams across money, health and work verticals.\\",\\" everywhere.vc/ \\",\\"hello@everywhere.vc\\",\\"FinTech\\",\\" Collaborative Fund \\",\\"285\\",\\"51\\",\\"214\\",\\"43\\",\\"90\\",\\"Collaborative Fund is an investment fund that provides funding to companies based on creativity and collaborative consumption.The fund centers around two macro themes which drives business innovation in the coming years: the growth of the creative class and the concept of collaborative consumption.Craig Shapiro founded it in New York in 2010.\\",\\" www.collaborativefund.com \\",\\"ian@collaborativefund.com\\",\\"Collaboration\\",\\"Late Stage Venture\\",\\" Real Ventures \\",\\"38\\",\\" Montréal, Quebec, Canada\\",\\"176\\",\\"50\\",\\"7\\",\\"Real Ventures is an early-stage venture firm focused on serving daring entrepreneurs with the ambition to create successful, global companies. Since 2007, Real Ventures has dedicated itself to building the Canadian startup ecosystem on the belief that people, not money, build game-changing companies. Real Ventures provides stage-specific guidance, mentorship, and access to networks and resources to fast-track founders’ personal and company growth. Real Ventures manages $325 million across five funds and its active portfolio of 100+ companies is currently valued at $10 billion. www.realventures.com\\",\\" realventures.com \\",\\"hello@realventures.com\\",\\"Angel Investment\\",\\"Legal\\",\\" Ascension \\",\\"276\\",\\"12\\",\\" London, England, United Kingdom\\",\\"179\\",\\"48\\",\\"Ascension is an early-stage VC built by exited entrepreneurs to back the next generation of tech and impact founders.Run by an experienced and diverse team of successful entrepreneurs, we have been relentlessly dedicated to finding the UK’s best Seed-stage startups since 2014.Ascension benefits from the active industry connections essential for the sourcing and development of deal-flow and due diligence. The team has co-invested with the UK’s leading angels and VCs, key to securing follow-on funding as the portfolio businesses move to their next stage of growth.We believe in building an inclusive, community driven brand that can benefit the wider UK tech ecosystem and strive to work with conviction, integrity, humour, and humility.\\",\\" www.ascension.vc \\",\\"info@ascension.vc\\",\\"Support\\",\\" MassVentures \\",\\"275\\",\\"72\\",\\" Boston, Massachusetts, United States\\",\\"199\\",\\"27\\",\\"36\\",\\"MassVentures meets critical capital needs in the Massachusetts innovation economy, providing seed and early-stage venture funding to high growth startups as they move from concept to commercialization. The Boston-based venture firm was formed in 1978 as a quasi-public corporation by the Legislature of the Commonwealth of Massachusetts, governed by an independent Board of Directors, and managed by experienced venture capitalists. Leveraging the entrepreneurial spirit, educated workforce, and centers of innovation in Massachusetts, MassVentures has a track record of success with early-stage ventures.\\",\\" mass-ventures.com \\",\\"jallen@mass-ventures.com\\",\\"Information Technology\\",\\"Media and Entertainment\\",\\"Medical \\\\u0026 Science\\",\\"Security\\",\\" DN Capital \\",\\"272\\",\\" Menlo Park, California, United States\\",\\"150\\",\\"68\\",\\"11\\",\\"DN Capital is an early-stage venture capital firm that invests primarily in Europe and North America. The firm focuses on companies that plan to establish operations on both sides of the Atlantic, and strives to help its companies build international businesses. Founded in 2000, the company has operations in London and Silicon Valley. DN Capital’s previous funds are top performers and the firm is one of the lead investors in companies such as Endeca (sold to Oracle), Shazam (one of the world’s leading mobile app), Auto1 (world\\\\u0027s largest used car marketplace), Purplebricks (IPO London) and Quandoo (sold to Recruit).\\",\\" dncapital.com \\",\\"info@dncapital.com\\",\\"(650) 561-9300\\",\\" Ulu Ventures \\",\\"259\\",\\"37\\",\\" Palo Alto, California, United States\\",\\"189\\",\\"34\\",\\"147\\",\\"Ulu Ventures is a leading seed-stage venture fund in Silicon Valley investing in diverse entrepreneurial teams as well as Enterprise IT, EdTech, FinTech, Healthcare, and Sustainability startups. Ulu is the first Latina-led venture fund in Silicon Valley and is one of the largest in the country with over $200M in assets under management. As well, the firm has designed its investment process to reduce risk and produce better, more consistent returns. Ulu’s process structures intuition and applies it intelligently to investments, avoiding cognitive biases common in VC; systematically identifies key drivers of risk and uncertainty, streamlining due diligence; and calculates a probability-weighted multiple(PWM) on invested capital, ensuring consistent decision-making.\\",\\" www.uluventures.com \\",\\"info@uluventures.com\\",\\" Capstone Partners Co., Ltd. \\",\\"20\\",\\" Seoul, Seoul-t\\\\u0027ukpyolsi, South Korea\\",\\"193\\",\\"58\\",\\"2\\",\\"Capstone Partners is a venture capital firm specializing in early-stage companies operating in the Information technology, wireless technology, architecture, pharmaceutical, internet, online game, software, solid state disk, and IP television sectors. It primarily invests in China and South Korea, with a focus in Seoul and Gyeonggi province. The firm prefers to exit its investments through a trade sale. Capstone Partners was founded in 2008 and is based in Seoul, South Korea.Capstone Partners is a venture capital firm that invests in entrepreneurs seeking success with fresh ideas. Capstone Partners values the funds of union investors better than our own, working for the interests of investors and following the objective of the investments.\\",\\" cspartners.co.kr \\",\\"contact@cspartners.co.kr\\",\\"82 2 575 1210\\",\\"Education\\",\\"Mobile\\",\\" Point Nine \\",\\" Berlin, Berlin, Germany\\",\\"70\\",\\"Point Nine Capital is a Berlin-based venture capital firm focused exclusively on early-stage Internet investments in areas like Software-as-a-Service (SaaS), online marketplaces, and mobile.The fund and its managers, Pawel Chudzinski and Christoph Janz have backed a number of highly successful Internet companies such as Delivery Hero, Clio, Shiftplanning, Vend, Typeform, and Zendesk from their earliest stages.\\",\\" www.pointnine.com \\",\\"info@pointninecap.com\\",\\"Marketplace\\",\\"SaaS\\",\\" Strong Ventures \\",\\"255\\",\\"6\\",\\" Los Angeles, California, United States\\",\\"161\\",\\"28\\",\\"16\\",\\"Strong Ventures is a seed fund, based in California, that finances, supports, and mentors Korean/Asian/Global entrepreneurs, empowering them to build strong ventures and to break successfully into the global market.With proven experience as operators, executives, and entrepreneurs, they provide hands-on assistance and guidance. On top of their financial investment, they aim to provide tangible value to their entrepreneurs, through network reach, strategic thinking, and execution collaboration. And, as they engage together in their venture endeavors, they hope to make the entrepreneurial ecosystem, where they build companies and labor in, a better, stronger, and more fun place for all.\\",\\" www.strongvc.com \\",\\"info@strongvc.com\\",\\" CyberAgent Capital \\",\\"253\\",\\"44\\",\\" Tokyo, Tokyo, Japan\\",\\"Convertible Note\\",\\"216\\",\\"83\\",\\"CyberAgent Ventures is a venture capital firm headquartered in Tokyo. It has a presence in South Korea, China, Indonesia, Taiwan, Thailand and Vietnam and invests in startups in those countries.\\",\\" www.cyberagentcapital.com \\",\\"Startup Competition\\",\\" LaunchCapital \\",\\"252\\",\\"62\\",\\" New Haven, Connecticut, United States\\",\\"204\\",\\"14\\",\\"LaunchCapital invests in entrepreneurs who build the future. It focuses on the seed and early stages of development. They plan to make significant follow-on investments in exceptional companies as they continue growing.\\",\\" www.launchcapital.com \\",\\"submission@launchcapital.com\\",\\"Consumer\\",\\"Medical Device\\",\\"Publishing\\",\\" TSVC \\",\\"235\\",\\" Los Altos, California, United States\\",\\"198\\",\\"46\\",\\"TSVC is a venture capital firm that focuses on early-stage deep technology startups. TSVC invests in forward-thinking ideas and cutting-edge deep technologies as well as partnering with founders in Silicon Valley’s entrepreneurial community.TSVC delivers outstanding returns to investors by funding over 160 startups in deep tech-focused areas like SaaS, AI chips, Fintech, Biotech, Blockchain, and Semiconductors. Their mission is to support entrepreneurs with unique insights and solid technical expertise and to bring them distinctive values along with crucia'... 863067 more characters,
+      metadata: [Object]
+    }
+  ]
+}

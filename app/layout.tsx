@@ -11,14 +11,26 @@ import { Header } from '@/components/header'
 
 export const metadata: Metadata = {
   title: {
-    default: ' AI Chatbot',
+    default: 'VC AI Chatbot',
     template: `%s -  AI Chatbot`
   },
-  description: 'An AI-powered chatbot template built with Wootiv and Vercel.',
+  description: 'An AI-powered chatbot built with Wootiv and Next.js',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: 'white' },
     { media: '(prefers-color-scheme: dark)', color: 'black' }
   ],
+  openGraph: {
+    type: 'website',
+    locale: 'en-US',
+    url: 'https://hack-angel-vc-ecs-prod.wootiv.xyz/',
+    images: 'https://hack-angel-vc-ecs-prod.wootiv.xyz/og.png',
+  },
+  twitter: {
+    creator: '@wootivapp',
+    site: '@wootivapp',
+    card: 'summary_large_image',
+    images: 'https://hack-angel-vc-ecs-prod.wootiv.xyz/og.png',
+  },
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon-16x16.png',

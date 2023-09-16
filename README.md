@@ -1,10 +1,10 @@
-<a href="https://chat.vercel.ai/">
-  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
-  <h1 align="center">Next.js AI Chatbot</h1>
+<a href="https://hack-angel-vc-ecs-prod.wootiv.xyz/">
+  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="./public/og.png">
+  <h1 align="center">VC AI Chatbot</h1>
 </a>
 
 <p align="center">
-  An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV.
+  An open-source AI chatbot app template built with Wootiv, Next.js, the Vercel AI SDK, OpenAI, and Vercel KV.
 </p>
 
 <p align="center">
